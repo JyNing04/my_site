@@ -20,7 +20,15 @@ sections:
           filters:
             brightness: 0.5
           size: contain
-          position: center
+          position: left
+          parallax: false
+        image:
+          # Add your image background to `assets/media/`.
+          filename: image28_2666x1500.jpg #li-yang-5h_dMuX_7RE-unsplash.webp
+          filters:
+            brightness: 0.5
+          size: contain
+          position: right
           parallax: false
   - block: markdown
     content:
