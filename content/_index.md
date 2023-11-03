@@ -16,19 +16,11 @@ sections:
         text_color_light: true
         image:
           # Add your image background to `assets/media/`.
-          filename: image28_1_2133x1200.jpg #li-yang-5h_dMuX_7RE-unsplash.webp
+          filename: image_5500x1768.webp #li-yang-5h_dMuX_7RE-unsplash.webp
           filters:
             brightness: 0.5
           size: contain
-          position: left
-          parallax: false
-        image:
-          # Add your image background to `assets/media/`.
-          filename: image28_2666x1500.jpg #li-yang-5h_dMuX_7RE-unsplash.webp
-          filters:
-            brightness: 0.5
-          size: contain
-          position: right
+          position: center
           parallax: false
   - block: markdown
     content:
