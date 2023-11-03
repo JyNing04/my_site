@@ -19,8 +19,8 @@ sections:
           filename: image11.jpeg #li-yang-5h_dMuX_7RE-unsplash.webp
           filters:
             brightness: 0.5
-          size: contain
-          position: cover
+          size: cover
+          position: center
           parallax: false
   - block: markdown
     content:
