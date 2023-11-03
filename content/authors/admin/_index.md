@@ -1,20 +1,19 @@
 ---
 # Display name
-title: Jingyun Ning (dʒɪŋ ün niŋ)
+title: Jingyun Ning #(dʒɪŋ ün niŋ)
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position
-role: Research Assistant at LinkLab
-role: Team Leader of Vehicle Dynamics and Control
+role: Team Leader of Team Vehicle Dynamics and Control
 
 # Organizations/Affiliations
 organizations:
-- name: University of Virginia
-  url: ""
 - name: Cavalier Autonomous Racing
   url: "https://autonomousracing.dev/"
+- name: University of Virginia
+  url: ""
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include learning dynamics model, model-based control.
@@ -36,6 +35,9 @@ social:
 - icon: github
   icon_pack: fab
   link: https://github.com/BrianN92
+- icon: linkedin
+  icon_pack: fab
+  link: https://www.linkedin.com/in/jingyun-ning-414513128/
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/uploads/cv.pdf` and uncomment the lines below.
 - icon: cv
