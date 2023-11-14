@@ -50,7 +50,7 @@ sections:
         netlify:
           # Enable CAPTCHA challenge to reduce spam?
           captcha: true
-        {{< contact >}}
+        # {{< contact >}}
     design:
       columns: '1'
 
