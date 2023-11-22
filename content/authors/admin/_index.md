@@ -31,7 +31,7 @@ social:
   link: https://www.instagram.com/mr_ning04/
 - icon: google-scholar
   icon_pack: ai
-  link: https://scholar.google.co.uk/citations?user=qF-Dh2EAAAAJ&hl=en
+  link: https://scholar.google.com/citations?hl=en&authuser=1&user=oU2oH-cAAAAJ
 - icon: github
   icon_pack: fab
   link: https://github.com/BrianN92
