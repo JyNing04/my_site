@@ -1,8 +1,8 @@
 ---
-title: Internal Project
-summary: An example of using the in-built project page.
+title: Academic Project
+summary: Here is a showcase of the research topics that I am most enthusiastic about.
 tags:
-- Deep Learning
+- R.O.I
 date: "2016-04-27T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).
