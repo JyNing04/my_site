@@ -1,6 +1,6 @@
 ---
-title: Academic Project
-summary: Here is a showcase of the research topics that I am most enthusiastic about.
+title: Course Projects
+summary: Brief intro of some interesting course projects I have completed.
 tags:
 - R.O.I
 date: "2016-04-27T00:00:00Z"
