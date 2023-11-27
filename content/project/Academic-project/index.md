@@ -11,7 +11,6 @@ external_link: ""
 image:
   caption: Photo by rawpixel on Unsplash
   focal_point: Smart
-  # filename: "DSC05889.JPG"
 
 # links:
 # - icon: twitter
