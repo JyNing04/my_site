@@ -1,9 +1,9 @@
 ---
 abstract: Autonomous racing is increasingly becoming a proving ground for autonomous vehicle technology at the limits of its current capabilities. The most prominent examples include the F1Tenth racing series, Formula Student Driverless (FSD), Roborace, and the Indy Autonomous Challenge (IAC). Especially necessary,
 in high speed autonomous racing, is the knowledge of accurate racecar vehicle dynamics. The choice of the vehicle dynamics model has to be made by balancing the increasing computational demands in contrast to improved accuracy of more complex models. Recent studies have explored learning-based methods, such as Gaussian Process (GP) regression for approximating the vehicle dynamics model. However, these efforts focus on higher level constructs such as motion planning, or predictive control and lack both in realism and rigor of the GP modeling process, which is often over-simplified. This paper presents the most detailed analysis of the applicability of GP models for approximating vehicle dynamics for autonomous racing. In particular we construct dynamic, and extended kinematic models for the popular F1TENTH racing platform. We investigate the effect of kernel choices, sample sizes, racetrack layout, racing lines, and velocity profiles on the efficacy and generalizability of the learned dynamics. We conduct 400+ simulations on real F1 track layouts to provide comprehensive recommendations to the research community for training accurate GP regression for single-track vehicle dynamics of a racecar.
-# author_notes:
-# - Equal contribution
-# - Equal contribution
+author_notes:
+- Equal contribution
+- Equal contribution
 authors:
 - admin
 - Madhur Behl
