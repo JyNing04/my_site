@@ -10,18 +10,18 @@ image:
   caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/pLCdAaMFLTE)'
   focal_point: ""
   preview_only: false
-links:
-- name: Custom Link
-  url: http://example.org
+# links:
+# - name: Custom Link
+#   url: http://example.org
 projects:
 - internal-project
-publication: In *Source Themes Conference*
+publication: In *Conference on Robot Learning*
 publication_short: In *CoRL 2023*
 publication_types:
 - "1"
-publishDate: "2017-01-01T00:00:00Z"
-slides: example
-summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
+publishDate: "2023-11-01T00:00:00Z"
+# slides: example
+summary: We investigated the potential of DKL-SKIP as a promising tool for modeling complex vehicle dynamics in both real-world and simulated environments.
 tags:
 - Source Themes
 title: Scalable Deep Kernel Gaussian Process for Vehicle Dynamics in Autonomous Racing
