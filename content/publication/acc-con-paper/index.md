@@ -2,6 +2,8 @@
 abstract:  Low-lying coastal cities across the world are increasingly seeing flooding due to climate change and ac- companying sea-level rise. Many such cities rely on old and passive stormwater infrastructure which cannot cope up with the increasing flood risk. One potential solution for addressing coastal flooding is implementing active control strategies in the stormwater systems. Existing stormwater control mostly relies on rule-based strategies, which are not sufficient to manage the increasing flood risk. Model predictive control (MPC) for stormwater management has received attention for this problem. However, building physics-based models for MPC in stormwater management is very cost and time prohibitive. In this paper, we propose a data-driven approach, which utilizes unstructured state-space models for system identification and predictive control implementation. We demonstrate our results using two real stormwater network configurations, one from the Norfolk, VA region and another model of Ann Arbor region, MI, respectively using the SWMM simulator. Our results indicate that MPC outperforms rule-based strategies by up to 60% for the Norfolk system and up to 90% for the Ann Arbor system in flood management
 authors:
 - admin
+- Benjamin D Bowes
+- Jonathan L Goodall
 - Madhur Behl
 date: "2022-06-01T00:00:00Z"
 doi: ""
