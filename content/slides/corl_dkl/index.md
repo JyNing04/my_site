@@ -25,21 +25,20 @@ slides:
 - Obtaining physics-based model coefficients is often time and cost prohibitive.​
     - Learning drivetrain dynamics requires dyno testing
     - Understanding tire dynamics involves experimenting with specialized tire rigs.​
-[testimage](slides1.png)
+[Slide image](slides1.png)
 ---
 
 ### Approximate Dynamics Using Simpler Model
 
-- Next: `Right Arrow` or `Space`
-- Previous: `Left Arrow`
-- Start: `Home`
-- Finish: `End`
-- Overview: `Esc`
-- Speaker notes: `S`
-- Fullscreen: `F`
-- Zoom: `Alt + Click`
-- [PDF Export](https://github.com/hakimel/reveal.js#pdf-export): `E`
-
+[single-track models](table.png)
+- Approximate the observed dynamics with a simpler model (single-track model)
+- Build a GP model to capture the residuals between the simpler model output and observations.
+{{% fragment %}} Extended Kinematic Model **$+$** GP {{% /fragment %}}
+{{% fragment %}} **$\approx$** {{% /fragment %}}
+{{% fragment %}} Corrected Model {{% /fragment %}}
+{{% fragment %}} **$\tilde$** {{% /fragment %}}
+{{% fragment %}} **Observed Dynamics** {{% /fragment %}}
+[Slide image](slides2.png)
 ---
 
 ## Code Highlighting
