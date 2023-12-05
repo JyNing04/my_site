@@ -29,7 +29,7 @@ title: Gaussian Processes for Vehicle Dynamics Learning in Autonomous Racing (In
 # url_pdf: http://arxiv.org/pdf/1512.04133v1
 # url_poster: ""
 # url_project: ""
-# url_slides: ""
+# url_slides: example
 # url_source: ""
 # url_video: ""
 ---
