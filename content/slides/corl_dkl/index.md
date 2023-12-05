@@ -13,19 +13,19 @@ slides:
   highlight_style: dracula
 ---
 
-# Create slides in Markdown with Wowchemy
+# Scalable Deep Kernel Gaussian Process for Vehicle Dynamics in Autonomous Racing
 
-[Wowchemy](https://wowchemy.com/) | [Documentation](https://owchemy.com/docs/managing-content/#create-slides)
+[Paper](https://openreview.net/pdf?id=zUiH8UUYDo) | [Conference](https://www.corl2023.org/)
 
 ---
 
-## Features
+## Vehicle Dynamics Modeling Is Challenging​
 
-- Efficiently write slides in Markdown
-- 3-in-1: Create, Present, and Publish your slides
-- Supports speaker notes
-- Mobile friendly slides
-
+- Building dynamic vehicle models capable of modeling non-linear behaviors
+- Obtaining physics-based model coefficients is often time and cost prohibitive.​
+    - Learning drivetrain dynamics requires dyno testing
+    - Understanding tire dynamics involves experimenting with specialized tire rigs.​
+[](slides1.png)
 ---
 
 ## Controls
