@@ -1,40 +1,40 @@
 ---
-abstract: Autonomous racing is increasingly becoming a proving ground for autonomous vehicle technology at the limits of its current capabilities. The most prominent examples include the F1Tenth racing series, Formula Student Driverless (FSD), Roborace, and the Indy Autonomous Challenge (IAC). Especially necessary, in high speed autonomous racing, is the knowledge of accurate racecar vehicle dynamics. The choice of the vehicle dynamics model has to be made by balancing the increasing computational demands in contrast to improved accuracy of more complex models. Recent studies have explored learning-based methods, such as Gaussian Process (GP) regression for approximating the vehicle dynamics model. However, these efforts focus on higher level constructs such as motion planning, or predictive control and lack both in realism and rigor of the GP modeling process, which is often over-simplified. This paper presents the most detailed analysis of the applicability of GP models for approximating vehicle dynamics for autonomous racing. In particular we construct dynamic, and extended kinematic models for the popular F1TENTH racing platform. We investigate the effect of kernel choices, sample sizes, racetrack layout, racing lines, and velocity profiles on the efficacy and generalizability of the learned dynamics. We conduct 400+ simulations on real F1 track layouts to provide comprehensive recommendations to the research community for training accurate GP regression for single-track vehicle dynamics of a racecar.
-author_notes:
-- Equal contribution
-- Equal contribution
+abstract: In high-speed autonomous racing, it is necessary to have an accurateracecar vehicle dynamics model in order to push the vehicle closer toits limits. The choice of the dynamics model has to be made by balancing the computational demands in contrast to model complexity. Learning-based methods, such as Gaussian Processes (GP) based regression, have shown promise towards approximating the vehicle dynamics model. In particular, such methods use a simplified model structure that is easy to tune and then use GP to model the mismatch between the output of the simple model and observed system dynamics. However, current GP approaches often oversimplify the modeling process or apply strong assumptions, leading to unrealistic results that cannot translate to real-world settings. This paper presents a comprehensive GP based design for modeling the dynamics of an autonomous racing car on simulation data, a 1/10 scale autonomous racing car, and a full-scale autonomous Indy racing car. In the first part of this paper, we present a rigorous empirical analysis highlighting how the open-loop and closed-loop performance of GP models for autonomous racing is highly sensitiveto the choice of the GP kernel, the data sample size, and track configurations suggesting there is no single easy choice that always works. We demonstrate this through a combinatorial simulation setup for 1/10 scale autonomous racing cars. We then present a novel method called DKL-SKIP which uses deep kernel learning to overcome the challenges of kernel selection and scalability for GP modeling. We evaluate DKL-SKIP on a high-fidelity Autoverse simulator as well as real data from an autonomous real-world full-scale Indy racing car. Our results reveal that DKL-SKIP surpasses scalable GP models and the N4SID algorithm in both real-world and high-fidelity simulation environments.
+# author_notes:
+# - Equal contribution
+# - Equal contribution
 authors:
 - admin
 - Madhur Behl
-date: "2022-09-01T00:00:00Z"
+date: "2023-12-01T00:00:00Z"
 doi: ""
 featured: false
 image:
-  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/jdD8gXaTZsc)'
+  # caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/jdD8gXaTZsc)'
   focal_point: ""
   preview_only: false
 projects: []
-publication: '*Journal of Source Themes, 1*(1)'
+publication: '*Gaussian Processes for Vehicle Dynamics Learning in Autonomous Racing, 1*(1)'
 publication_short: ""
 publication_types:
 - "2"
-publishDate: "2022-09-01T00:00:00Z"
+publishDate: "2023-12-01T00:00:00Z"
 # slides: example
 summary: We conduct 400+ simulations on real F1 track layouts to provide comprehensive recommendations to the research community for training accurate GP regression for single-track vehicle dynamics of a racecar.
 tags:
 - Source Themes
-title: An example journal article
-url_code: ""
-url_dataset: ""
-url_pdf: http://arxiv.org/pdf/1512.04133v1
-url_poster: ""
-url_project: ""
-url_slides: ""
-url_source: ""
-url_video: ""
+title: Gaussian Processes for Vehicle Dynamics Learning in Autonomous Racing (In progress)
+# url_code: ""
+# url_dataset: ""
+# url_pdf: http://arxiv.org/pdf/1512.04133v1
+# url_poster: ""
+# url_project: ""
+# url_slides: ""
+# url_source: ""
+# url_video: ""
 ---
 
-{{% callout note %}}
+<!-- {{% callout note %}}
 Click the *Cite* button above to demo the feature to enable visitors to import publication metadata into their reference management software.
 {{% /callout %}}
 
@@ -42,4 +42,4 @@ Click the *Cite* button above to demo the feature to enable visitors to import p
 Click the *Slides* button above to demo Academic's Markdown slides feature.
 {{% /callout %}}
 
-Supplementary notes can be added here, including [code and math](https://sourcethemes.com/academic/docs/writing-markdown-latex/).
+Supplementary notes can be added here, including [code and math](https://sourcethemes.com/academic/docs/writing-markdown-latex/). -->
