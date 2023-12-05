@@ -8,7 +8,7 @@ main:
     url: '/'
     weight: 10
   - name: Research
-    url: '/project'
+    url: '/project (In progress)'
     weight: 30
   - name: Events
     url: '/event'
