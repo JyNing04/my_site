@@ -16,7 +16,7 @@ featured: false
 image:
   # caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/bzdhc5b3Bxs)'
   focal_point: Right
-location: Wowchemy HQ
+location: The Starling
 math: true
 publishDate: "2017-01-01T00:00:00Z"
 slides: example2
