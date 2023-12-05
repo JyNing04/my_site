@@ -25,7 +25,7 @@ summary: We investigated the potential of DKL-SKIP as a promising tool for model
 tags:
 - Source Themes
 title: Scalable Deep Kernel Gaussian Process for Vehicle Dynamics in Autonomous Racing
-url_pdf: http://eprints.soton.ac.uk/352095/1/Cushen-IMV2013.pdf
+url_pdf: https://openreview.net/pdf/4fa59a63ab8f41ff266c399f8b30fae68463a33e.pdf
 url_poster: https://drive.google.com/file/d/1X7j7fjZ_5uMGaTjjYIBgr75FSJEmYaB0/view?usp=sharing
 
 
