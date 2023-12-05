@@ -24,7 +24,7 @@ slides:
 - Building dynamic vehicle models capable of modeling non-linear behaviors
 - Obtaining physics-based model coefficients is often time and cost prohibitive.​
     - Learning drivetrain dynamics requires dyno testing
-    - Understanding tire dynamics involves experimenting with specialized tire rigs.​/
+    - Understanding tire dynamics involves experimenting with specialized tire rigs.  
 [Slide image](slides1.png)
 ---
 
@@ -32,13 +32,10 @@ slides:
 
 [single-track models](table.png)
 - Approximate the observed dynamics with a simpler model (single-track model)
-- Build a GP model to capture the residuals between the simpler model output and observations.
-
-<div style="text-align: center; font-size: 80%;">
+- Build a GP model to capture the residuals between the simpler model output and observations.  
     {{% fragment %}} Extended Kinematic Model **$+$** GP {{% /fragment %}}
     {{% fragment %}} **$\approx$** {{% /fragment %}}
-    {{% fragment %}} Observed Dynamics {{% /fragment %}}
-</div>
+    {{% fragment %}} Observed Dynamics {{% /fragment %}}  
 [Slide image](slides2.png)
 ---
 
