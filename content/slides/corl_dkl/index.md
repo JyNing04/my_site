@@ -51,7 +51,8 @@ $$
 
 $$
 K_{\tilde{D}\tilde{D}}^{(i)} = \mathbf{W}_{\tilde{D}}^{(i)}K_{UU}\mathbf{W}_{\tilde{D}}^{(i)}{^T}
-$$  
+$$
+
 [Slides image](slide4.png)
 ---
 
