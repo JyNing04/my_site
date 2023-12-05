@@ -27,7 +27,7 @@ sections:
       title: 'Welcome 👋'
       subtitle: ''
       text: |-
-        Use this area to speak to your mission. I'm a research scientist in the Moonshot team at DeepMind. I blog about machine learning, deep learning, and moonshots.
+        I am a dedicated PhD student in the Department of Computer Engineering at the University of Virginia, specializing in the field of autonomous racing. My research primarily revolves around vehicle modeling and control, as well as motion planning, aiming to advance the capabilities and efficiency of autonomous racing technologies.
 
         **Specialties:** Analytics & Data, Leadership, Programming, Strategic Planning, Writing & Editing
     design:
@@ -38,7 +38,7 @@ sections:
       subtitle: ''
       text: ''
       # Page type to display. E.g. post, talk, publication...
-      page_type: event
+      page_type: Recent & Upcoming Talks
       # Choose how many pages you would like to display (0 = all pages)
       count: 5
       # Filter on criteria
