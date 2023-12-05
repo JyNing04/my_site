@@ -20,7 +20,7 @@ publication_types:
 - "2"
 publishDate: "2023-12-01T00:00:00Z"
 # slides: example
-summary: We conduct 400+ simulations on real F1 track layouts to provide comprehensive recommendations to the research community for training accurate GP regression for single-track vehicle dynamics of a racecar.
+summary: This journal article provides a comprehensive overview and synthesis of prior research efforts focused on the development and refinement of Gaussian Process (GP) models for the purpose of learning and understanding vehicle dynamics. 
 tags:
 - Source Themes
 title: Gaussian Processes for Vehicle Dynamics Learning in Autonomous Racing (In progress)
