@@ -24,8 +24,7 @@ slides:
 - Building dynamic vehicle models capable of modeling non-linear behaviors
 - Obtaining physics-based model coefficients is often time and cost prohibitive.​
     - Learning drivetrain dynamics requires dyno testing
-    - Understanding tire dynamics involves experimenting with specialized tire rigs.​
-
+    - Understanding tire dynamics involves experimenting with specialized tire rigs.​/
 [Slide image](slides1.png)
 ---
 
@@ -40,7 +39,6 @@ slides:
     {{% fragment %}} **$\approx$** {{% /fragment %}}
     {{% fragment %}} Observed Dynamics {{% /fragment %}}
 </div>
-
 [Slide image](slides2.png)
 ---
 
