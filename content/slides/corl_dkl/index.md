@@ -33,23 +33,26 @@ slides:
 [single-track models](table.png)
 - Approximate the observed dynamics with a simpler model (single-track model)
 - Build a GP model to capture the residuals between the simpler model output and observations.  
-    {{% fragment %}} Extended Kinematic Model **$+$** GP {{% /fragment %}}
+    {{% fragment %}} **Ekin Model $+$ GP** {{% /fragment %}}
     {{% fragment %}} **$\approx$** {{% /fragment %}}
-    {{% fragment %}} Observed Dynamics {{% /fragment %}}  
+    {{% fragment %}} **Observed Dynamics** {{% /fragment %}}  
 [Slide image](slides2.png)
 ---
 
-## Code Highlighting
+### DKL-SKIP GP Method
 
-Inline code: `variable`
+- DKL captures the most relevant information while reducing its dimensionality.
 
-Code block:
-```python
-porridge = "blueberry"
-if porridge == "blueberry":
-    print("Eating...")
-```
+$$
+k(d_i, d_j;\theta) \rightarrow k(g(d_i,w),g(d_j,w)|\theta,w)
+$$
 
+- SKIP-GP utilizes SKI & product kernel structure to reduce the computing complexity of GP
+
+$$
+K_{\tilde{D}\tilde{D}}^{(i)} = \mathbf{W}_{\tilde{D}}^{(i)}K_{UU}\mathbf{W}_{\tilde{D}}^{(i)}{^T}
+$$  
+[Slides image](slide4.png)
 ---
 
 ## Math
