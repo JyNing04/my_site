@@ -60,3 +60,13 @@ $$
 
 ---
 
+### Results
+
+- Calculate the MAE, Root mean square error, normalized root mean square error and R2 coefficient for each error term
+- DKL-SKIP outperforms the other methods in both real-world and simulated experiments.  
+[Slide image](slide6.png)  
+---
+
+### Future Work
+- Closed-loop MPC implementation
+- Multi-output DKL-SKIP model​
