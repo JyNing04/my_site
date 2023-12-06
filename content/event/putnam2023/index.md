@@ -1,10 +1,10 @@
 ---
-abstract: Our work on Scalable Deep Kernel Gaussian Process for Vehicle Dynamics in Autonomous Racing has been presented at CoRL 2023. The Conference on Robot Learning (CoRL) is an annual international conference focusing on the intersection of robotics and machine learning. 
+abstract: In July 2023, we've been pushing the limits and testing our Cavalier Autonomous Racing car at the Putnam Park Road Course in Indianapolis! With the Indy Autonomous Challenge transitioning from ovals to thrilling road courses, we're gearing up for the next big challenge!
 address:
-  city: Atlanta
+  city: Greencastle
   country: United States
-  # postcode: "94305"
-  region: GA
+  postcode: "46135"
+  region: Indiana
   # street: 450 Serra Mall
 all_day: false
 authors: []
