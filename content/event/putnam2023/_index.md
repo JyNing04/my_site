@@ -24,8 +24,8 @@ summary: Testing our algorithm and racecar on the road course racetrack of Putna
 tags: [C.A.R]
 title: IAC @ Putnam Park Road Course
 # url_poster: https://drive.google.com/file/d/1X7j7fjZ_5uMGaTjjYIBgr75FSJEmYaB0/view?usp=sharing
-url_pdf: https://openreview.net/pdf/4fa59a63ab8f41ff266c399f8b30fae68463a33e.pdf
-url_post: https://www.linkedin.com/posts/indy-autonomous-challenge_nosteeringwheelnoproblem-autonomousracing-activity-7095868953733844992-I9UT/?trk=public_profile_like_view
+# url_pdf: https://openreview.net/pdf/4fa59a63ab8f41ff266c399f8b30fae68463a33e.pdf
+# url_poster: https://www.linkedin.com/posts/indy-autonomous-challenge_nosteeringwheelnoproblem-autonomousracing-activity-7095868953733844992-I9UT/?trk=public_profile_like_view
 url_video: https://www.linkedin.com/posts/madhurbehl_autonomousracing-autonomousvehicles-robotics-activity-7101902939429949440-PEhJ?utm_source=share&utm_medium=member_desktop
 ---
 
