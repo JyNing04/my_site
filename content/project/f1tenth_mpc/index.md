@@ -3,6 +3,9 @@ title: Approximating Race Car Vehicle Dynamics With Gaussian Processes For Auton
 summary: We evaluate the closed-loop performance of the GP model using model predictive control on racecar dynamics learning.
 tags:
 - Vehicle dynamics
+- Simulator
+- Self-driving
+
 date: "2022-09-27T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).
