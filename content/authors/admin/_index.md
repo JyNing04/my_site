@@ -16,7 +16,7 @@ organizations:
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include learning dynamics model, model-based control.
+bio: My research interests include machine learning, dynamics modeling, learning-based control and optimal control strategies.
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
