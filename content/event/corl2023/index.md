@@ -21,7 +21,7 @@ math: true
 publishDate: "2017-01-01T00:00:00Z"
 slides: corl_dkl
 summary: Demonstrate our work on DKL-SKIP for learning racecar dynamics at Conference on Robot Learning.
-tags: []
+tags: [Conference]
 title: Presentation at CoRL 2023
 url_poster: https://drive.google.com/file/d/1X7j7fjZ_5uMGaTjjYIBgr75FSJEmYaB0/view?usp=sharing
 url_pdf: https://openreview.net/pdf/4fa59a63ab8f41ff266c399f8b30fae68463a33e.pdf
