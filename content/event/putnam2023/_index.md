@@ -1,5 +1,5 @@
 ---
-abstract: In July 2023, we've been pushing the limits and testing our **Cavalier Autonomous Racing** car at the Putnam Park Road Course in Indianapolis! With the **Indy Autonomous Challenge** transitioning from ovals to thrilling road courses, we're gearing up for the next big challenge!
+abstract: In July 2023, we've been pushing the limits and testing our Cavalier Autonomous Racing car at the Putnam Park Road Course in Indianapolis! With the Indy Autonomous Challenge transitioning from ovals to thrilling road courses, we're gearing up for the next big challenge!
 address:
   city: Greencastle
   country: United States
