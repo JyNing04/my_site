@@ -10,7 +10,7 @@ all_day: false
 authors: []
 date: "2023-07-05T09:00:00Z"
 date_end: "2023-07-09T17:00:00Z"
-event: Conference on Robot Learning
+event: Indy Autonomous Challenge
 event_url: https://www.corl2023.org/
 featured: false
 image:
@@ -22,7 +22,7 @@ publishDate: "2017-01-01T00:00:00Z"
 # slides: corl_dkl
 summary: Testing our algorithm and racecar on the road course racetrack of Putnam Park, Indianapolis.
 tags: [C.A.R]
-title: Presentation at CoRL 2023
+title: IAC @ Putnam Park Road Course
 # url_poster: https://drive.google.com/file/d/1X7j7fjZ_5uMGaTjjYIBgr75FSJEmYaB0/view?usp=sharing
 url_pdf: https://openreview.net/pdf/4fa59a63ab8f41ff266c399f8b30fae68463a33e.pdf
 url_post: https://www.linkedin.com/posts/indy-autonomous-challenge_nosteeringwheelnoproblem-autonomousracing-activity-7095868953733844992-I9UT/?trk=public_profile_like_view
