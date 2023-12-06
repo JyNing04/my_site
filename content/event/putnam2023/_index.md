@@ -11,7 +11,7 @@ authors: []
 date: "2023-07-05T09:00:00Z"
 date_end: "2023-07-09T17:00:00Z"
 event: Indy Autonomous Challenge
-event_url: https://www.corl2023.org/
+event_url: https://www.indyautonomouschallenge.com/
 featured: false
 image:
   caption: 'Image credit: [**Indy Autonomous Challenge**](https://www.linkedin.com/posts/indy-autonomous-challenge_nosteeringwheelnoproblem-autonomousracing-activity-7095868953733844992-I9UT/?trk=public_profile_like_view)'
