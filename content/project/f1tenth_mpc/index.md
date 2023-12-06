@@ -21,7 +21,7 @@ image:
 # url_code: ""
 # url_pdf: ""
 # url_slides: ""
-url_video: https://drive.google.com/drive/u/1/my-drive?q=parent:0AP2rKsIVpn7AUk9PVA%20type:video
+url_video: https://drive.google.com/file/d/1LAmsnHQYbbsKytAqrCQqUqrk5pZ8oodX/view?usp=sharing
 
 # Slides (optional).
 #   Associate this project with Markdown slides.
