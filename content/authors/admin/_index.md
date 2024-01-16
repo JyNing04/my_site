@@ -37,7 +37,7 @@ social:
   link: https://github.com/BrianN92
 - icon: linkedin
   icon_pack: fab
-  link: https://www.linkedin.com/in/jingyun-ning-414513128/
+  link: https://www.linkedin.com/in/jingyunning/
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/uploads/cv.pdf` and uncomment the lines below.
 - icon: cv
