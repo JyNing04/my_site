@@ -1,38 +1,5 @@
 ---
-abstract: The Cavalier Autonomous Racing team achieved 2nd place at the [**Indy Autonomous Challenge**](https://www.indyautonomouschallenge.com/) at CES 2024. As an unqualified team in last year's competition, we qualified as the top-seeded contender and martched to this year's racing competition at CES 2024.
-
-The semi-final was between our team and [MIT-PITT-RW](https://www.mitpittrw.com/). Starting as the attacker, our autonomous car successfully completed overtakes when the defending car was running at 80 mph, 100 mph, and 115 mph, ultimately reaching a speed of 143 mph (230 kmph)! The finals brought us head-to-head with the [TUM Autonomous Racing team](https://www.linkedin.com/company/ftm-tum/). We managed to overtake them at 100 mph. However, our motion planner sent an acceleration command during a defense maneuver, pushing our car from 80 mph to 130 mph. This unforeseen action led to a race rule violation, bringing the round to an end and securing us the 2nd place.
-
-Here is the exceptional team behind our success at the IAC CES event. More details can be found in [the team website](https://autonomousracing.dev/crew)
-This talented crew, both on-site and remotely, played pivotal roles in preparing the autonomous racing stack.
-
-- Autonomous Racing crew at the IAC CES event
-
-  - Aron Harder - CS, PhD - Technical Team Lead + Software Integration Team Lead
-  - Amar Kulkarni - CS, PhD - Motion Planning Team Lead
-  - Jingyun Ning - CpE, PhD - Vehicle Dynamics & Control Team Lead
-  - John Chrosniak - CS, MS - Perception Team Lead
-  - John Link - CS, UG - Drivetrain and Longitudinal Dynamics 
-  - Shreepa Parthaje - CS, UG
-  - Srikar Gouru - CS, UG
-  - Siddharth Lakkoju - CS, UG
-  - Michael Fatemi - CS, UG
-  - Aditya Kak - CS, UG
-  - Akash Pamal - CS UG
-  - Niklas Holle - Visiting student (U. of Stuttgart)
-
-- Remote crew
-
-  - Trent Weiss - CS PhD
-  - Kyle McDonald - CS UG
-  - Ekow Daniels - MAE UG
-  - Annabel Li - CS UG
-  - Mark Piatko - MAE UG
-  - David Xiang - CS UG
-  - Harshal Nallapareddy - CS UG
-  - Preetham Minchu - CS UG
-
-Our car is set to undergo a transformation into the [AV-24](https://www.indyautonomouschallenge.com/indy-autonomous-challenge-unveils-next-gen-autonomous-vehicle-platform-iac-av-24) configuration over the next two months. The next race will be held at the Formula One racetrack in Monza, Italy this summer.
+abstract: The Cavalier Autonomous Racing team achieved 2nd place at the [**Indy Autonomous Challenge**](https://www.indyautonomouschallenge.com/) at CES 2024. As an unqualified team in last year's competition, we qualified as the top-seeded contender and martched to this year's racing competition at CES 2024.  The semi-final was between our team and [MIT-PITT-RW](https://www.mitpittrw.com/). Starting as the attacker, our autonomous car successfully completed overtakes when the defending car was running at 80 mph, 100 mph, and 115 mph, ultimately reaching a speed of 143 mph (230 kmph)! The finals brought us head-to-head with the [TUM Autonomous Racing team](https://www.linkedin.com/company/ftm-tum/). We managed to overtake them at 100 mph. However, our motion planner sent an acceleration command during a defense maneuver, pushing our car from 80 mph to 130 mph. This unforeseen action led to a race rule violation, bringing the round to an end and securing us the 2nd place.  Here is the exceptional team behind our success at the IAC CES event. More details can be found in [the team website](https://autonomousracing.dev/crew).  This talented crew, both on-site and remotely, played pivotal roles in preparing the autonomous racing stack.  Our car is set to undergo a transformation into the [AV-24](https://www.indyautonomouschallenge.com/indy-autonomous-challenge-unveils-next-gen-autonomous-vehicle-platform-iac-av-24) configuration over the next two months. The next race will be held at the Formula One racetrack in Monza, Italy this summer.
 
 address:
   city: Las Vegas
