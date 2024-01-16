@@ -6,7 +6,7 @@ The semi-final was between our team and [MIT-PITT-RW](https://www.mitpittrw.com/
 Here is the exceptional team behind our success at the IAC CES event. More details can be found in [the team website](https://autonomousracing.dev/crew)
 This talented crew, both on-site and remotely, played pivotal roles in preparing the autonomous racing stack.
 
-- Autonomous Racing crew at the IAC CES event:
+- Autonomous Racing crew at the IAC CES event
 
   - Aron Harder - CS, PhD - Technical Team Lead + Software Integration Team Lead
   - Amar Kulkarni - CS, PhD - Motion Planning Team Lead
@@ -21,7 +21,7 @@ This talented crew, both on-site and remotely, played pivotal roles in preparing
   - Akash Pamal - CS UG
   - Niklas Holle - Visiting student (U. of Stuttgart)
 
-- Remote crew:
+- Remote crew
 
   - Trent Weiss - CS PhD
   - Kyle McDonald - CS UG
@@ -31,6 +31,8 @@ This talented crew, both on-site and remotely, played pivotal roles in preparing
   - David Xiang - CS UG
   - Harshal Nallapareddy - CS UG
   - Preetham Minchu - CS UG
+
+Our car is set to undergo a transformation into the [AV-24](https://www.indyautonomouschallenge.com/indy-autonomous-challenge-unveils-next-gen-autonomous-vehicle-platform-iac-av-24) configuration over the next two months. The next race will be held at the Formula One racetrack in Monza, Italy this summer.
 
 address:
   city: Las Vegas
