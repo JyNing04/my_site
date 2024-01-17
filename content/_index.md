@@ -27,7 +27,7 @@ sections:
       title: 'Welcome 👋'
       subtitle: ''
       text: |-
-        I am a dedicated PhD student in the Department of Computer Engineering at the University of Virginia, specializing in the field of autonomous racing. My research primarily revolves around vehicle modeling, learning-based control and optimal control strategies, as well as motion planning, aiming to advance the capabilities and efficiency of autonomous racing technologies.
+        I am a PhD student in the Department of Computer Engineering at the University of Virginia, specializing in the field of autonomous racing. My research primarily revolves around vehicle modeling, learning-based control and optimal control strategies, as well as motion planning, aiming to advance the capabilities and efficiency of autonomous racing technologies.
 
         **Specialties:** Analytics & Data, Leadership, Programming, Strategic Planning, Writing & Editing
     design:
