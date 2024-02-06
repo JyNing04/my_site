@@ -19,12 +19,12 @@ marketing:
     local_business_type: ''
     org_name: ''
     description: 'Computer Engineering, and a member of the Cavalier Autonomous Racing team at the University of Virginia.'
-    # twitter: 'Jingyun'
+    twitter: 'JyNing'
   analytics:
     google_analytics: ''
     baidu_tongji: ''
   verification:
-    google: ''
+    google: 'google-site-verification: googlec93dba9017308e8d.html'
     baidu: ''
 
 # Site header
