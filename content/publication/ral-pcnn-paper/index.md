@@ -25,7 +25,7 @@ publishDate: "2024-06-01T00:00:00Z"
 summary: This letter introduces Deep Dynamics, a physics-constrained neural network (PCNN) for autonomous racecar vehicle dynamics modeling.
 tags:
 - Source Themes
-title: Deep Dynamics: Vehicle Dynamics Modeling With a Physics-Constrained Neural Network for Autonomous Racing
+title: "Deep Dynamics: Vehicle Dynamics Modeling With a Physics-Constrained Neural Network for Autonomous Racing"
 url_pdf: https://ieeexplore.ieee.org/abstract/document/10499707
 # url_poster: https://drive.google.com/file/d/1X7j7fjZ_5uMGaTjjYIBgr75FSJEmYaB0/view?usp=sharing
 
