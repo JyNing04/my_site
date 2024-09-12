@@ -18,7 +18,7 @@ image:
   focal_point: Right
 location: Putnam Park Road Course
 math: true
-publishDate: "2017-01-01T00:00:00Z"
+publishDate: "2023-08-01T00:00:00Z"
 # slides: corl_dkl
 summary: Testing our algorithm and racecar on the road course racetrack of Putnam Park, Indianapolis.
 tags: [IAC, CAR]

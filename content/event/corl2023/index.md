@@ -18,7 +18,7 @@ image:
   focal_point: Right
 location: The Starling
 math: true
-publishDate: "2017-01-01T00:00:00Z"
+publishDate: "2023-10-01T00:00:00Z"
 slides: corl_dkl
 summary: Demonstrate our work on DKL-SKIP for learning racecar dynamics at Conference on Robot Learning.
 tags: [Conference]
