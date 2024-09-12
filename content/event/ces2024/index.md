@@ -23,7 +23,7 @@ publishDate: "2017-01-01T00:00:00Z"
 # slides: acc22
 summary: The Cavalier Autonomous Racing team achieved 2nd place at the IAC CES 2024.
 tags: [CES, IAC, CAR]
-title: Autonomous Racing competition at CES 2024
+title: CAR @ CES 2024
 # url_poster: https://drive.google.com/file/d/1X7j7fjZ_5uMGaTjjYIBgr75FSJEmYaB0/view?usp=sharing
 # url_pdf: https://par.nsf.gov/servlets/purl/10340925
 # url_slides: https://docs.google.com/presentation/d/1333faXxiVeolibkSoQrCgxq_UoA-j0dp/edit?usp=sharing&ouid=102446797087350617558&rtpof=true&sd=true
