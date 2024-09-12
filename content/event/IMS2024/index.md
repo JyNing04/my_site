@@ -1,5 +1,5 @@
 ---
-abstract: [**Cavalier Autonomous Racing**](https://autonomousracing.dev/) won the time trial competition with a 52.628-second lap on the historic 2.5-mile oval, averaging 171.012 mph (273.619 kph) and pulling 2.25 lateral Gs in the turns. During the winning lap, we set a new world record for autonomous speed on a racetrack, reaching 184 mph (296 kph). This also marks the first time a U.S.-based team has topped the podium at an [**Indy Autonomous Challenge**](https://www.linkedin.com/company/indy-autonomous-challenge/?lipi=urn%3Ali%3Apage%3Ad_flagship3_search_srp_all%3BYYVcJXOwSmiwjH66VheRvA%3D%3D) competition!
+abstract:  On Sept. 6th, [**Cavalier Autonomous Racing**](https://autonomousracing.dev/) won the time trial competition with a 52.628-second lap on the historic 2.5-mile oval, averaging 171.012 mph (273.619 kph) and pulling 2.25 lateral Gs in the turns. During the winning lap, we set a new world record for autonomous speed on a racetrack, reaching 184 mph (296 kph). This also marks the first time a U.S.-based team has topped the podium at an [**Indy Autonomous Challenge**](https://www.linkedin.com/company/indy-autonomous-challenge/?lipi=urn%3Ali%3Apage%3Ad_flagship3_search_srp_all%3BYYVcJXOwSmiwjH66VheRvA%3D%3D) competition!
 address:
   city: Indianapolis
   country: United States
