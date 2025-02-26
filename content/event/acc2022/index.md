@@ -21,7 +21,7 @@ math: true
 publishDate: "2017-01-01T00:00:00Z"
 # slides: acc22
 summary: Demonstrate our work on real-time stormwater management using model predictive control at American Control Conference.
-tags: [Conference]
+tags: [Conference, Research]
 title: Presentation at ACC 2022
 # url_poster: https://drive.google.com/file/d/1X7j7fjZ_5uMGaTjjYIBgr75FSJEmYaB0/view?usp=sharing
 url_pdf: https://par.nsf.gov/servlets/purl/10340925
