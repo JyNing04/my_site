@@ -23,7 +23,7 @@ publishDate: "2025-02-25T00:00:00Z"
 summary: I have successfully passed my PhD proposal defense, advancing my research on machine learning-based and model-based vehicle dynamics and control.
 tags: [Research]
 title: PhD Proposal Defended
-# url_poster: https://drive.google.com/file/d/1X7j7fjZ_5uMGaTjjYIBgr75FSJEmYaB0/view?usp=sharing
+url_slides: https://docs.google.com/presentation/d/1WvwDs5GHlYlmGG2bDAFGKFdUxsPhs8Jy/edit?usp=sharing&ouid=102446797087350617558&rtpof=true&sd=true
 # url_pdf: https://openreview.net/pdf/4fa59a63ab8f41ff266c399f8b30fae68463a33e.pdf
 # url_poster: https://www.linkedin.com/posts/indy-autonomous-challenge_nosteeringwheelnoproblem-autonomousracing-activity-7095868953733844992-I9UT/?trk=public_profile_like_view
 url_video: https://youtu.be/qcB5D6Klxjs
