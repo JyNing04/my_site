@@ -1,5 +1,5 @@
 ---
-abstract:  The University of Virginia's Cavalier Autonomous Racing team has been working hard during this summer at the Kentucky Speedway, putting the upgraded AV-24 autonomous racing car through its paces. 
+abstract: Throughout the summer, I’ve been actively testing and tuning the upgraded AV-24 autonomous racecar at the Kentucky Speedway as part of UVA’s Cavalier Autonomous Racing team—focusing on improving control algorithms and vehicle performance under real-world conditions.
 address:
   city: Sparta
   country: United States
@@ -20,7 +20,7 @@ location: Kentucky Speedway
 math: true
 publishDate: "2024-07-10T00:00:00Z"
 # slides: corl_dkl
-summary: This summer, Cavalier Autonomous Racing has been preparing for the seventh edition of IAC autonomous racing competition.
+summary: This summer, we have been preparing for the seventh edition of IAC autonomous racing competition.
 tags: [IAC, CAR]
 title: CAR @ Kentucky Speedway
 # url_poster: https://drive.google.com/file/d/1X7j7fjZ_5uMGaTjjYIBgr75FSJEmYaB0/view?usp=sharing

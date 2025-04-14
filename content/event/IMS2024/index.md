@@ -1,5 +1,5 @@
 ---
-abstract:  On Sept. 6th, [**Cavalier Autonomous Racing**](https://autonomousracing.dev/) won the time trial competition with a 52.628-second lap on the historic 2.5-mile oval, averaging 171.012 mph (273.619 kph) and pulling 2.25 lateral Gs in the turns. During the winning lap, we set a new world record for autonomous speed on a racetrack, reaching 184 mph (296 kph). This also marks the first time a U.S.-based team has topped the podium at an [**Indy Autonomous Challenge**](https://www.linkedin.com/company/indy-autonomous-challenge/?lipi=urn%3Ali%3Apage%3Ad_flagship3_search_srp_all%3BYYVcJXOwSmiwjH66VheRvA%3D%3D) competition!
+abstract:  On September 6th, I had the incredible opportunity to help lead Cavalier Autonomous Racing to victory at the Indy Autonomous Challenge time trial competition. We completed a blistering 52.628-second lap on the historic 2.5-mile oval at the Indianapolis Motor Speedway—averaging 171.012 mph (273.619 kph) and pulling 2.25 lateral Gs through the turns. During that winning lap, our car hit a top speed of 184 mph (296 kph), setting a new world record for autonomous racing on a closed circuit. This also marks the first time a U.S.-based team has topped the podium at an [**Indy Autonomous Challenge**](https://www.linkedin.com/company/indy-autonomous-challenge/?lipi=urn%3Ali%3Apage%3Ad_flagship3_search_srp_all%3BYYVcJXOwSmiwjH66VheRvA%3D%3D) competition!
 address:
   city: Indianapolis
   country: United States
@@ -20,7 +20,7 @@ location: Indianapolis Motor Speedway
 math: true
 publishDate: "2024-09-10T00:00:00Z"
 # slides: corl_dkl
-summary: Cavalier Autonomous Racing won the time trial competition at the seventh edition of IAC autonomous racing competition.
+summary: We set a new benchmark for autonomous racing performance and won the time trial competition at the seventh edition of IAC autonomous racing competition.
 tags: [IAC, CAR]
 title: CAR @ Indianapolis Motor Speedway
 # url_poster: https://drive.google.com/file/d/1X7j7fjZ_5uMGaTjjYIBgr75FSJEmYaB0/view?usp=sharing
