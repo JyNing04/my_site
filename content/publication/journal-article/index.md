@@ -14,7 +14,7 @@ image:
   focal_point: ""
   preview_only: false
 projects: []
-publication: '*Gaussian Processes for Vehicle Dynamics Learning in Autonomous Racing, 1*(1)'
+publication: '*SAE International Journal of Vehicle Dynamics, Stability, and NVH*'
 publication_short: ""
 publication_types:
 - "2"
