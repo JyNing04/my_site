@@ -23,7 +23,7 @@ publishDate: "2026-06-06T00:00:00Z"
 summary: In this paper, we developed a DKMGP-based E-kin model to capture the dynamics of a full-size autonomous racecar. The DKMGP model overcomes the limitations of existing methods by predicting all state residuals using a single model. Additionally, we present an adaptive correction horizon algorithm that enables DKMGP for multi-step prediction.
 tags:
 - Source Themes
-title: DKMGP: A Gaussian Process Approach to Multi-Task and Multi-Step Vehicle Dynamics Modeling in Autonomous Racing
+title: "DKMGP: A Gaussian Process Approach to Multi-Task and Multi-Step Vehicle Dynamics Modeling in Autonomous Racing"
 # url_code: ""
 # url_dataset: ""
 url_pdf: https://saemobilus.sae.org/articles/gaussian-processes-vehicle-dynamics-learning-autonomous-racing-10-08-03-0019
