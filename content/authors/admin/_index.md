@@ -6,7 +6,7 @@ title: Jingyun Ning #(dʒɪŋ ün niŋ)
 superuser: true
 
 # Role/position
-role: Team Leader of Team Vehicle Dynamics and Control
+role: Vehicle Dynamics and Control Team Lead
 
 # Organizations/Affiliations
 organizations:
