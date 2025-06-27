@@ -34,7 +34,7 @@ social:
   link: https://scholar.google.com/citations?hl=en&authuser=1&user=oU2oH-cAAAAJ
 - icon: github
   icon_pack: fab
-  link: https://github.com/BrianN92
+  link: https://github.com/JyNing04
 - icon: linkedin
   icon_pack: fab
   link: https://www.linkedin.com/in/jingyunning/
