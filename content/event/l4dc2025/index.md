@@ -1,5 +1,5 @@
 ---
-abstract: for our latest paper: “DKMGP: A Gaussian Process Approach to Multi-Task and Multi-Step Vehicle Dynamics Modeling in Autonomous Racing” which has been selected for an oral presentation at the Learning for Dynamics & Control Conference (L4DC 2025) - and also flagged for Best Paper Award consideration. This paper introduces a new deep kernel Gaussian Process model for learning a multi-task, multi-step vehicle dynamics model for high-speed autonomous racing - while remaining fast enough for real-time prediction.
+abstract: for our latest paper “DKMGP A Gaussian Process Approach to Multi-Task and Multi-Step Vehicle Dynamics Modeling in Autonomous Racing” which has been selected for an oral presentation at the Learning for Dynamics & Control Conference (L4DC 2025) - and also flagged for Best Paper Award consideration. This paper introduces a new deep kernel Gaussian Process model for learning a multi-task, multi-step vehicle dynamics model for high-speed autonomous racing - while remaining fast enough for real-time prediction.
 address:
   city: Ann Arbor
   country: United States
